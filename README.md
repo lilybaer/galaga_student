@@ -1,7 +1,8 @@
-Galaga-Inspired Game Project
+#Galaga-Inspired Game Project
+
 This project is a Python implementation of a Galaga-inspired arcade game, developed using Pygame. The game challenges players to control a spaceship, dodge enemy waves, and shoot projectiles to earn points. It highlights foundational programming concepts in game development, including sprite management, event handling, and collision detection.
 
-Features
+##Features
 Player Controls:
 Navigate the spaceship up and down using W and S keys.
 Fire projectiles at enemies using the Space bar.
