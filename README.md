@@ -1,0 +1,1 @@
+I, Lily Baer worked alone on this lab and therefore completed all of the necessary tasks myself.
